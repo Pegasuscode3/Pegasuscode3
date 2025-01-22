@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi there 👋  
+:rocket: I want to improve my SQL skills  
+🌱 I’m currently learning Python
 
 <!--
 **Pegasuscode3/Pegasuscode3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
